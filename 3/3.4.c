@@ -1,0 +1,20 @@
+//
+// Created by zhanzhao on 2021/1/23.
+//
+
+#include <stdio.h>
+
+int main(void)
+{
+    unsigned int un = 3000000000;
+    short end = 200;
+    long big = 65537;
+    long long verybig = 12345678908642;
+    char grade = 'FATE';
+    printf("un = %u and not %d\n",un,un);
+    printf("end = %hd and %d\n",end,end);
+    printf("big = %ld and not %hd\n",big,big);
+    printf("verybig = %lld and not %ld\n",verybig,verybig);
+    printf("grade = %c\n",grade);
+    return 0;
+}
