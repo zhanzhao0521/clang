@@ -24,6 +24,8 @@ int main(void)
         printf("I am child process pid is %d ppid is %d, fork return is %d\n",
                getpid(),getppid(),pid);
     }
+    printf("pid:%d\n",getpid());
+    sleep(1);
     return 0;
 
 }
