@@ -1,4 +1,4 @@
 # clang
 
-#### 介绍
-C Primer Plus Exercise
+#### desc
+《C Primer Plus》 Exercise
