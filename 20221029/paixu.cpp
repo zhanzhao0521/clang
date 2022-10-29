@@ -2,6 +2,8 @@
 // Created by 韩战召 on 2022/10/29.
 //
 
+//长度为7的字符串，首尾保持不变，中间字符按ASII码升序排列，
+//然后输出。举例如”Bdsaclid",排序后输出“Bacdlisd"。
 
 #include <iostream>
 using namespace std;
