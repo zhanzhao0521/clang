@@ -2,7 +2,7 @@
 // Created by 韩战召 on 2022/10/29.
 //
 
-#include "Shape.h"
+
 #include <iostream>
 using namespace std;
 const double PI = 3.14;
